@@ -35,6 +35,7 @@ test('fuction is definited', () => {
 
 test('if the expected is an object', () => {
   expect(typeofResponseExpected(['Iron Man'])).toBe('object')
+  expect(typeofResponseExpected(['Hulk'])).toBe('object')
 })
 
 test('if get the expected information', () => {
