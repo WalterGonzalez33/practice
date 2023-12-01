@@ -10,9 +10,8 @@ const simplifyPath = (path) => {
       stack.push(element)
     }
   })
-  const newPath = stack.join('/')
 
-  return (`/${newPath}`)
+  return (`/${stack.join('/')}`)
 }
 
 console.log(simplifyPath('/home/'))
