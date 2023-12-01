@@ -1,26 +1,3 @@
-/*
-Enunciado Ejercicio 1:
-Dado un array o un objeto de superhéroes de Marvel, haz un programa que pueda
-mostrar la información de un superheroe.
-
-Y añade una capacidad de buscar la información de varios superhéroes a la vez.
-
-Ejemplo:
-mostrarInformacionSuperheroe('Iron Man');
-
-Salida:
-Nombre real: Tony Stark
-Poderes: Tecnología avanzada, Movilidad aérea
-Equipo: Los vengadores
-
-Ejemplo 2:
-mostrarInformacionSuperheroes([array de nombres]]);
-
-Salida:
-Muestra la información de todos los superheroes
-
-*/
-
 // Crear array de objetos de superheroes marvel
 const infoSuperHeroes = {
   'Iron Man': {

@@ -29,7 +29,7 @@ const typeofResponseExpected = (list) => {
   return typeof response
 }
 
-test('fuction is definited', () => {
+test('function is defined', () => {
   expect(getInfoAboutSuperHeroes('Iron Man')).toBeDefined()
 })
 
