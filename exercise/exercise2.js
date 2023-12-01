@@ -19,5 +19,6 @@ console.log(simplifyPath('/home/'))
 console.log(simplifyPath('/home//stack/study'))
 console.log(simplifyPath('/x/./y/../../z/'))
 console.log(simplifyPath('/x/./y/../z/'))
+console.log(simplifyPath('/x/./y/../z/'))
 
 module.exports = { simplifyPath }
