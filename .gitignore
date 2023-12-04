@@ -6,3 +6,6 @@ fetch
 
 # testings
 coverage
+
+# vscode
+.vscode
