@@ -1,11 +1,11 @@
-node_modules
+/node_modules
 
-sueltos
+/sueltos
 
-fetch
+/fetch
 
 # testings
-coverage
+/coverage
 
 # vscode
 .vscode
