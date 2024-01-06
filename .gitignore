@@ -1,8 +1,5 @@
+# node modules
 /node_modules
-
-/sueltos
-
-/fetch
 
 # testings
 /coverage
