@@ -12,6 +12,7 @@
     "standard": "17.1.0"
   },
   "eslintConfig": {
+    "env": {"jest": true},
     "extends": "./node_modules/standard/eslintrc.json"
   },
   "devDependencies": {
