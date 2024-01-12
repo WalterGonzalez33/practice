@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-const { simplifyPath } = require('../exercise/exercise2')
+const { simplifyPath } = require('../exercises/exercise2')
 
 test('is the expected path', () => {
   expect(simplifyPath('/x/./y/../../z/')).toBe('/z')

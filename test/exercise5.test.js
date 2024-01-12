@@ -1,4 +1,4 @@
-const sortForLastName = require('../exercise/exercise5')
+const sortForLastName = require('../exercises/exercise5')
 
 const persons = [
   'Victor Robles',

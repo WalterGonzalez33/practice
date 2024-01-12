@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-const { getInfoAboutSuperHeroes, getInfoAboutSuperHeroesArray } = require('../exercise/exercise1')
+const { getInfoAboutSuperHeroes, getInfoAboutSuperHeroesArray } = require('../exercises/exercise1')
 const objectExpected1 = [
   {
     realName: 'Steve Rogers',
